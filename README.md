@@ -1,7 +1,7 @@
 SOFE4640U: Mobile Application Development, Assignment 1
 Name: Sehaj Behl, Student ID: 100748987
 	
-	This assignment is about creating a mobile application that calculates your
+ This assignment is about creating a mobile application that calculates your
  EMI (equated monthly installment) through mortgage details such as Mortgage principal amount, 
  Interest rate and amortization period. These details were fundamental in calculating the EMI. 
  Inside my source code, I structured my application to have 2 main activities, MainActivity and 
